@@ -1,4 +1,8 @@
  #  EX 1 VIRTUAL MACHINE CREATION IN LINUX
+
+### REG NUMBER: 212223220032
+### NAME: HARSETHA J
+
   ## AIM
        To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
@@ -41,9 +45,7 @@ cat /etc/hostname
 ## OUTPUT
 ![img](https://github.com/user-attachments/assets/5db56b3d-3c96-4e08-bd57-77271861420c)
 
-### REG NUMBER: 212223220032
-### NAME: HARSETHA J
- 
+
 ## RESULT
  The Installation of Virtualbox / VMware Workstation with different flavours of linux is successfully created .
 
